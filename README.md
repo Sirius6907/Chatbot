@@ -1,0 +1,1 @@
+create your .env file and add the api keys and mongodb uri then run "node server.js" for backend with npx nodemon . and run frontend "npm run dev"
